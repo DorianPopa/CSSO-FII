@@ -1,0 +1,66 @@
+Accessibility links
+Skip to main contentAccessibility help
+Accessibility feedback
+Google
+windows nFileSizeHigh
+
+About 17,200 results (0.78 seconds) 
+Did you mean: windows File Size High
+
+Search Results
+Web results
+Finding correct filesize over 4gb in windows - Stack Overflow
+https://stackoverflow.com › questions › finding-correct-filesize-over-4gb-i...
+4 answers
+Mar 5, 2013 - I would use : ULONGLONG FileSize = (static_cast<ULONGLONG>(FindFileData.nFileSizeHigh) << sizeof(FindFileData.nFileSizeLow) *8) ...
+C++ : Incorrect File Size Calculation WinAPI	1 answer	Mar 14, 2017
+File size calculation, Int64, and differences between ...	5 answers	Feb 10, 2011
+How can I get a size of biggest file without open?	2 answers	Aug 20, 2015
+C# Equivalent to C++ - Correcting Filesize on Large ...	4 answers	Sep 2, 2019
+More results from stackoverflow.com
+WIN32_FIND_DATAA (minwinbase.h) | Microsoft Docs
+https://docs.microsoft.com › en-us › windows › win32 › api › ns-minwinb...
+Dec 4, 2018 - nFileSizeHigh. The high-order DWORD value of the file size, in bytes. This value is zero unless the file size is greater than MAXDWORD.
+?Members · ?Remarks
+FILEDESCRIPTORA (shlobj_core.h) | Microsoft Docs
+https://docs.microsoft.com › en-us › windows › win32 › api › ns-shlobj_c...
+Dec 4, 2018 - ... (0x00000040). 0x00000040. The nFileSizeHigh and nFileSizeLow members are valid. ... Windows Vista and later. The descriptor is Unicode.
+Finding correct filesize over 4gb in windows
+https://windows-hexerror.linestarve.com › so15209077-Finding-correct-fil...
+Mar 4, 2013 - I have used this c++ code to find the filesize of some files in windows(using visual studio): (p_findFileData->nFileSizeHigh * MAXDWORD) + ...
+WIN32_FIND_DATA question - Google Groups
+https://groups.google.com › comp.os.ms-windows.programmer.win32
+comp.os.ms-windows.programmer.win32 ... input files size to the structure's nFileSizeHigh reading. .... (nFileSizeHigh * (MAXDWORD + 1)) + nFileSizeLow.
+Systems Programming - Page 42 - Google Books Result
+https://books.google.ro › books
+I.A.Dhotre A.A.Puntambekar - 2008
+In most cases, nFileSizeLow is the real size and nFileSizeHigh is 0. • dwReservedO and dwReservedl - reserved for Windows cFileName - name of the file.
+Windows CE 3.0: Application Programming
+https://books.google.ro › books
+Nick Grattan, ?Marshall Brain - 2001 - ?Computers
+This buffer is owned by Windows and must be freed by calling the function CeRapi ... FILETIME ftLastWriteTime; DWORD nFileSizeHigh; DWORD nFileSizeLow; ...
+Windows 2000 Performance Guide - Page 424 - Google Books Result
+https://books.google.ro › books
+Mark Friedman, ?Odysseas Pentakalos - 2002 - ?Computers
+Both functions return a WIN32_FIND DATA structure that includes the size of the file in nFileSizeHigh and nFileSizeLow. Given the total size of a partition, we ...
+WIN32_FIND_DATA and negative file sizes. | Noob Nuggets
+https://mcdrummerman.wordpress.com › 2010/07/13 › win32_find_data-a...
+Jul 13, 2010 - nFileSizeHigh is meant to be greater than zero if the file size is ... In this case the properties hold a DWORD, Windows version of a 32-bit signed ...
+How to find the size of a folder in C++ - CodeSpeedy
+https://www.codespeedy.com › how-to-find-the-size-of-a-folder-in-cpp
+... directory by using C++ approach. We for Windows APIs functions and strings for various operations. ... HighPart = data_reqd.nFileSizeHigh;; size = size+ sz.
+Page navigation
+1	
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Next
+Footer links
+RomaniaIasi, Ia?i - From your places (Home) - Use precise location - Learn more
+HelpSend feedbackPrivacyTerms
