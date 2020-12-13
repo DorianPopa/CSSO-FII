@@ -1,9 +1,0 @@
-﻿  main.cpp
-c:\users\dorian\documents\facultate\csso\project1\project1\main.cpp(13): warning C4101: 'b': unreferenced local variable
-c:\users\dorian\documents\facultate\csso\project1\project1\main.cpp(16): warning C4101: 'c': unreferenced local variable
-c:\users\dorian\documents\facultate\csso\project1\project1\main.cpp(14): warning C4101: 'w': unreferenced local variable
-c:\users\dorian\documents\facultate\csso\project1\project1\main.cpp(15): warning C4101: 'dw': unreferenced local variable
-  Generating code
-  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Project1.vcxproj -> C:\Users\Dorian\Documents\Facultate\CSSO\Project1\x64\Release\Project1.exe

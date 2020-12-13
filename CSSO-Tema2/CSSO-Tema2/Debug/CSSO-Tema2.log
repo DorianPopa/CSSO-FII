@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CSSO-Tema2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  CSSO-Tema2.cpp
-  CSSO-Tema2.vcxproj -> C:\Users\Dorian\Documents\Facultate\CSSO\CSSO-Tema2\Debug\CSSO-Tema2-ProcessSnapshot.exe
