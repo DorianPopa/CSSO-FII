@@ -1,0 +1,7 @@
+﻿  CSSO-Tema6.cpp
+  CommandHandler.cpp
+C:\Users\Dorian\Documents\Facultate\CSSO-FII\CSSO-Tema6\CSSO-Tema6\CSSO-Tema6.cpp(39,42): warning C4101: 'ErrorCode': unreferenced local variable
+C:\Users\Dorian\Documents\Facultate\CSSO-FII\CSSO-Tema6\CSSO-Tema6\CommandHandler.cpp(153,58): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+  Generating Code...
+C:\Users\Dorian\Documents\Facultate\CSSO-FII\CSSO-Tema6\CSSO-Tema6\CommandHandler.cpp(164,20): warning C4018: '<': signed/unsigned mismatch
+  CSSO-Tema6.vcxproj -> C:\Users\Dorian\Documents\Facultate\CSSO-FII\CSSO-Tema6\Debug\CSSO-Tema6.exe

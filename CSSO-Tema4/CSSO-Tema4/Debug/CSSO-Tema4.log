@@ -1,0 +1,5 @@
+﻿  CSSO-Tema4.cpp
+C:\Users\Dorian\Documents\Facultate\CSSO-FII\CSSO-Tema4\CSSO-Tema4\CSSO-Tema4.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dorian\Documents\Facultate\CSSO-FII\CSSO-Tema4\CSSO-Tema4\CSSO-Tema4.cpp(136,57): warning C4805: '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+C:\Users\Dorian\Documents\Facultate\CSSO-FII\CSSO-Tema4\CSSO-Tema4\CSSO-Tema4.cpp(147,20): warning C4018: '<': signed/unsigned mismatch
+  CSSO-Tema4.vcxproj -> C:\Users\Dorian\Documents\Facultate\CSSO-FII\CSSO-Tema4\Debug\CSSO-Tema4.exe
