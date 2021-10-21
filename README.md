@@ -11,3 +11,6 @@ The official documentation can be found here:
 https://docs.microsoft.com/en-us/windows/win32/api/
 
 > You can navigate the documentation faster by doing a quick google search with the name of the function. A link to the official documentation should be one of the first results.
+
+
+If you have any questions about the code in this repository or if you need further guidance on solving the tasks, open an issue inside this repository. I will do my best to answer your questions or help you with your problems, however, I will not offer complete solutions to possible new laboratory tasks or projects.
